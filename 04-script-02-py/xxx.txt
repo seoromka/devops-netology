@@ -1,0 +1,26 @@
+1.
+Какое значение будет присвоено переменной c?
+- будет ошибка типов. Строки и числа нельзя складывать
+
+Как получить для переменной c значение 12?
+- нужно задать a = '1'
+- или c = str(a) + b
+
+Как получить для переменной c значение 3?
+- нужно задать b = 2
+- или c = a + int(b)
+
+2. https://ibb.co/DgCb3Ld
+
+/Users/rk/sysadm-homeworks/02-git-01-vcs/README.md
+/Users/rk/sysadm-homeworks/README.md
+
+3. https://ibb.co/n1XJsKX
+
+rk@MacBook-Pro-Roman-2 04-script-02-py % python3 3.py ~/sysadm-homeworks11
+    Repository not found.
+rk@MacBook-Pro-Roman-2 04-script-02-py % python3 3.py ~/sysadm-homeworks
+    /Users/rk/sysadm-homeworks/02-git-01-vcs/README.md
+    /Users/rk/sysadm-homeworks/README.md
+
+4.
